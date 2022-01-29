@@ -1,4 +1,6 @@
 - Hi, I’m Rahul Kadiyala
-- I’m interested in Programming
+- I’m interested in Programming, NFTs, Stocks, Crypto
 - I’m currently learning Python and Swift
+- Goal is learn Python, Java Script, Java, C++ and SwiftUI
+- Feel free to downlaod and test my applications I have made
 - My email is @rahuls.kadiyala@gmail.com
